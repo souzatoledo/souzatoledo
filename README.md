@@ -22,6 +22,6 @@ Me nome e Bruno, mas pode me chamar de Souza, eu tenho 16 anos, estudante de pro
  
 <div align="center">
 
-  ![Snake animation](https://github.com/souzatoledo/souzatoledo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/souzatoledo/)
   
 </div>
