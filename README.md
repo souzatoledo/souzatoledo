@@ -20,4 +20,4 @@ Me nome e Bruno, mas pode me chamar de Souza, eu tenho 16 anos, estudante de pro
 ![WyzePT Status Github](https://github-readme-stats.vercel.app/api?username=souzatoledo&show_icons=true&theme=radical)
 [![Estatística de linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=souzatoledo&theme=blue-green&layout=compact)](https://github.com/souzatoledo/github-readme-stats)
  
-![Snake animation](https://github.com/yVexy/yVexy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzatoledo/souzatoledo/blob/output/github-contribution-grid-snake.svg)
