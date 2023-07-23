@@ -20,4 +20,8 @@ Me nome e Bruno, mas pode me chamar de Souza, eu tenho 16 anos, estudante de pro
 ![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=souzatoledo&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzatoledo&layout=donut)](https://github.com/souzatoledo/github-readme-stats)
  
-![Snake animation](https://github.com/souzatoledo/souzatoledo/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
